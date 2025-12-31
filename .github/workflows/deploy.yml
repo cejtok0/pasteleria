@@ -1,10 +1,10 @@
 name: 🚀 Deploy to your_domain
 
 on:
-  workflow_dispatch: # Uncomment below to deploy on push instead
-  # push:
-  #   branches:
-  #     - main
+  #workflow_dispatch: # Uncomment below to deploy on push instead
+   push:
+     branches:
+       - main
 
 jobs:
   deploy:

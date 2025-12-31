@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pedidos - Pastelería</title>
+    <title>Pedidos - Pastelería sdsdssd</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
